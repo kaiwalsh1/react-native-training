@@ -2,7 +2,7 @@
 
 ## Running the app
 
-/npx react-native start/
+`npx react-native start`
 
 
 
